@@ -9,7 +9,7 @@
 - 🧠 Also worked on an **AI-powered government chatbot prototype** at NITA-U (Uganda), exploring RAG for citizen-facing e-Gov services
 - 🌱 Currently deepening **Data Structures & Algorithms** and software architecture fundamentals
 - 💬 Ask me about **MERN, Python, Linux dev environments, or when *not* to use AI**
-- 📫 Reach me at **2300812780@std.kyu.ac.ug**
+- 📫 Reach me at **barrysserunkuma@gmail.com**
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

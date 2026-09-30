@@ -10,7 +10,7 @@
 - 🔭 Also built **[Homies](https://github.com/facelessl1beral/Homies)** — a two-sided roommate-matching & hostel booking platform with a custom 23-field weighted compatibility engine
 - 🌱 Currently deepening **Vue.js, TypeScript** and software architecture fundamentals
 - 💬 Ask me about **Vue, MERN, Python, Linux dev environments, or when *not* to use AI**
-- 📫 Reach me at **barrysserunkuma@gmail.com**
+- 📫 Reach me at **bkick7511@gmail.com**
 
 ### Tech Stack
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)

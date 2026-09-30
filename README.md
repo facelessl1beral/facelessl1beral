@@ -5,7 +5,6 @@
 
 - 🚀 Latest: **[CivicDesk](https://github.com/facelessl1beral/civicdesk)** — a citizen service request dashboard in Vue 3, TypeScript & Tailwind CSS. Sortable, searchable, filterable, keyboard-navigable. **[Live demo →](https://civicdesk-flame.vercel.app/)**
 - 🏛️ Industrial training at **NITA-U (Uganda)** — prototype Drupal 11 sites for district local government service delivery, plus an **AI-powered citizen chatbot prototype** exploring RAG for e-Gov services
-- 🏗️ Currently building the business website for **Royaux Architects and Engineers**
 - 🔭 Also built **[Homies](https://github.com/facelessl1beral/Homies)** — a two-sided roommate-matching & hostel booking platform with a custom 23-field weighted compatibility engine
 - 🌱 Currently deepening **Vue.js, TypeScript** and software architecture fundamentals
 - 💬 Ask me about **Vue, MERN, Python, Linux dev environments, or when *not* to use AI**

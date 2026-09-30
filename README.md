@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barry</h1>
 <h3 align="center">Fullstack Developer • Vue 3 · TypeScript · Tailwind CSS  . fullstack (MERN)• Kampala, Uganda</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=560&lines=+Building+CivicDesk+%E2%80%94+Vue+3%2C+TypeScript%2C+Tailwind;Accessibility+designed+in%2C+not+retrofitted;Weighing+explainability+against+ML+hype;Shipping+with+AI+tools%2C+thinking+without+them" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=640&lines=Building+CivicDesk+%E2%80%94+Vue+3%2C+TypeScript%2C+Tailwind;Accessibility+designed+in%2C+not+retrofitted;Weighing+explainability+against+ML+hype;Shipping+with+AI+tools%2C+thinking+without+them" alt="Typing SVG" />
 </p>
 
 - 🚀 Latest: **[CivicDesk](https://github.com/facelessl1beral/civicdesk)** — a citizen service request dashboard in Vue 3, TypeScript & Tailwind CSS. Sortable, searchable, filterable, keyboard-navigable. **[Live demo →](https://civicdesk-flame.vercel.app/)**
